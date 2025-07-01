@@ -55,7 +55,3 @@ Matplotlib, Seaborn
 
 Jupyter Notebook
 
-
-
-
-هل تحبي أضيف كمان كود للتشغيل أو مثال لإدخال القيم وال
